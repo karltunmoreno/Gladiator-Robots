@@ -32,6 +32,12 @@ There are many ways to approach this project, but this is how we'll do it:
 5.Make decisions using JavaScript conditions. For example, the game should allow a robot to fight if it still has health points, but not if its health points reach 0.
 
 6. Allow the player to decide whether they would like to fight or skip the fight.
+
+## Features
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Javascript
   
   
   
